@@ -1,0 +1,175 @@
+questions,marks,category
+Explain the Learning Agent with suitable block diagram.,5,AI
+Give difference between Informed Search and Uninformed search Algorithms.,5,AI
+Give PEAS and state space description for “Automobile Driver Agent”.,5,AI
+Explain different quantifiers with example.,5,AI
+Explain various properties of task environment with suitable examples,10,AI
+What is Game Playing Algorithm? Draw a game tree for Tic-Tac-Toe problem.,10,AI
+Illustrate forward-chaining and backward-chaining algorithm with suitable example.,10,AI
+Explain Hill Climbing Algorithm and problems that occurs in hill climbing algorithm?,10,AI
+What do you mean by Resolution? Also discuss the steps in Resolution.,10,AI
+"Consider problem of changing a flat tire. The goal is to have a good spare tire properly mounted on to the car’s axle, where the initial state has a flat tire on the axle and a good spare tire in the trunk. Give the ADL description for the problem and also discuss the solution.",10,AI
+Explain Partial-order planning with suitable example.,10,AI
+Define Belief Network. Describe the steps of constructing belief network with an example.,10,AI
+"Explain different applications of AI in Healthcare, Retail and Banking.",10,AI
+Alpha Beta Pruning.,10,AI
+Wumpus world Environment.,10,AI
+Describe different categories of AI.,5,AI
+Describe the characteristics of a medical diagnosis system using the PEAS properties.,5,AI
+Explain Goal based Agent with a block diagram.,5,AI
+Compare and contrast propositional logic and first order logic.,5,AI
+What do you mean by hill climbing. Explain.,5,AI
+"Perform α - β pruning on the following graph, clearly indicating the α and β cuts and the final value of root node.",10,AI
+What do you understand by informed and uninformed search methods? Explain in detail with example.,10,AI
+prove that using resolution technique. Draw the resolution tree.,10,AI
+What do you understand by forward chaining and backward chaining. Explain in detail.,10,AI
+Perform A* search to find the shortest distance path from S to any of the goal nodes.,10,AI
+What is planning in AI? Discuss partial order planning and hierarchical planning in detail,10,AI
+Explain the concept of genetic programming,10,AI
+"What is formulation of a problem. Formulate the Wumpus world problem in terms of following components: initial state, actions, successor function, goal test, path cost.",10,AI
+Applications of AI.,10,AI
+Simulated annealing.,10,AI
+Explain Different types of environment of AI agent.,5,AI
+What do you mean by Total Turing test.,5,AI
+Explian Utility Based Agent with block diagram.,5,AI
+Formulate the 8 puzzle problem.,5,AI
+Describe the characteristic of a part picking robot using the PEAS properties.,5,AI
+What do you mean by min max serach and alpha beta searcg. Explain in detail with example.,10,AI
+what do you undersatnd by A* search? It is informed or uninfromed search justify.,10,AI
+What do you understand by forward chaining and backward chaining. Explain in detail.,10,AI
+Explain various methods of knowledege representation.,10,AI
+what are local search algorithms? Explain any one in detail.,10,AI
+What do you undersatand abou Reinforcement learning. explain in detail.,10,AI
+What is planning in AI.Discuss partial order planning and hierarchical planning in detail.,10,AI
+Wumpus world Environment.,10,AI
+Applications of AI.,10,AI
+Natural Language Processing.,10,AI
+Natural Language Processing.,10,AI
+Forward and backword chaning.,10,AI
+hill climb algorithm and its limitation.,10,AI
+"What is formulation of a problem. Formulate the Wumpus world problem in terms of following components: initial state, actions, successor function, goal test, path cost.",10,AI
+Explain the concept of PAC learning.,10,AI
+Apply alpha beta pruning on the following example.,10,AI
+Apply A* algorithm on the following graph.,10,AI
+prove that using prepositional logic.,10,AI
+What do you mean by hill climbing. Explain.,5,AI
+What is planning in AI.Discuss partial order planning and hierarchical planning in detail.,10,AI
+hill climb algorithm and its limitation.,10,AI
+"Explain different applications of AI in Healthcare, Retail and Banking.",10,AI
+Applications of AI.,10,AI
+What is Game Playing Algorithm? Draw a game tree for Tic-Tac-Toe problem.,10,AI
+Explain Goal based Agent with a block diagram.,5,AI
+Apply alpha beta pruning on the following example.,10,AI
+Explain different quantifiers with example.,5,AI
+Explian Utility Based Agent with block diagram.,5,AI
+Alpha Beta Pruning.,10,AI
+What do you mean by Resolution? Also discuss the steps in Resolution.,10,AI
+Explain the concept of genetic programming,10,AI
+Illustrate forward-chaining and backward-chaining algorithm with suitable example.,10,AI
+Describe the characteristic of a part picking robot using the PEAS properties.,5,AI
+Explain various properties of task environment with suitable examples,10,AI
+What do you understand by forward chaining and backward chaining. Explain in detail.,10,AI
+Perform A* search to find the shortest distance path from S to any of the goal nodes.,10,AI
+Natural Language Processing.,10,AI
+Formulate the 8 puzzle problem.,5,AI
+What is supervised learning?,5,ML
+What is supervised learning?,5,ML
+Explain overfitting in machine learning?,5,ML
+What is a confusion matrix?,5,ML
+Describe the bias-variance tradeoff?,10,ML
+What is cross-validation?,5,ML
+"Define the term ""feature engineering""?",5,ML
+What is gradient descent?,10,ML
+Explain the difference between classification and regression?,5,ML
+What is supervised learning?,5,ML
+Explain overfitting in machine learning?,5,ML
+What is a confusion matrix?,5,ML
+Describe the bias-variance tradeoff?,10,ML
+What is cross-validation?,5,ML
+"Define the term ""feature engineering""?",5,ML
+What is gradient descent?,10,ML
+Explain the difference between classification and regression?,5,ML
+What is supervised learning?,5,ML
+Explain overfitting in machine learning?,5,ML
+What is a confusion matrix?,5,ML
+Describe the bias-variance tradeoff?,10,ML
+What is cross-validation?,5,ML
+"Define the term ""feature engineering""?",5,ML
+What is gradient descent?,10,ML
+Explain the difference between classification and regression?,5,ML
+What is supervised learning?,5,ML
+Explain overfitting in machine learning?,5,ML
+What is a confusion matrix?,5,ML
+Describe the bias-variance tradeoff?,10,ML
+What is cross-validation?,5,ML
+"Define the term ""feature engineering""?",5,ML
+What is gradient descent?,10,ML
+Explain the difference between classification and regression?,5,ML
+What are the different types of machine learning?,5,ML
+Describe the K-Nearest Neighbors algorithm?,5,ML
+What is dimensionality reduction?,5,ML
+Explain the role of the activation function in neural networks?,10,ML
+What is the purpose of a learning rate?,5,ML
+How does random forest differ from decision trees?,10,ML
+Explain the concept of ensemble learning?,5,ML
+What is the curse of dimensionality?,5,ML
+Define unsupervised learning with examples?,5,ML
+What is regularization in machine learning?,10,ML
+What are the different types of machine learning?,5,ML
+Describe the K-Nearest Neighbors algorithm?,5,ML
+What is dimensionality reduction?,5,ML
+Explain the role of the activation function in neural networks?,10,ML
+What is the purpose of a learning rate?,5,ML
+How does random forest differ from decision trees?,10,ML
+Explain the concept of ensemble learning?,5,ML
+What is the curse of dimensionality?,5,ML
+Define unsupervised learning with examples?,5,ML
+What is regularization in machine learning?,10,ML
+What are the different types of machine learning?,5,ML
+Describe the K-Nearest Neighbors algorithm?,5,ML
+What is dimensionality reduction?,5,ML
+Explain the role of the activation function in neural networks?,10,ML
+What is the purpose of a learning rate?,5,ML
+How does random forest differ from decision trees?,10,ML
+Explain the concept of ensemble learning?,5,ML
+What is the curse of dimensionality?,5,ML
+Define unsupervised learning with examples?,5,ML
+What is regularization in machine learning?,10,ML
+What is logistic regression used for?,5,ML
+Explain support vector machines (SVM)?,5,ML
+What is the purpose of a validation set?,5,ML
+Describe the difference between batch and stochastic gradient descent?,5,ML
+What is a kernel in SVM?,5,ML
+Explain the concept of clustering?,5,ML
+What is a decision boundary?,5,ML
+How do you handle missing data in datasets?,5,ML
+What is an epoch in neural network training?,5,ML
+Explain precision and recall?,5,ML
+What are hyperparameters?,5,ML
+Define reinforcement learning?,10,ML
+What is feature scaling?,5,ML
+Describe the differences between L1 and L2 regularization?,10,ML
+What is a confusion matrix used for?,5,ML
+What is logistic regression used for?,5,ML
+Explain support vector machines (SVM)?,5,ML
+What is the purpose of a validation set?,5,ML
+Describe the difference between batch and stochastic gradient descent?,5,ML
+What is a kernel in SVM?,5,ML
+Explain the concept of clustering?,5,ML
+What is a decision boundary?,5,ML
+How do you handle missing data in datasets?,5,ML
+What is an epoch in neural network training?,5,ML
+Explain precision and recall?,5,ML
+What are hyperparameters?,5,ML
+Define reinforcement learning?,10,ML
+What is feature scaling?,5,ML
+Describe the differences between L1 and L2 regularization?,10,ML
+What is a confusion matrix used for?,5,ML
+"What is the difference between AI, machine learning, and deep learning?",5,ML
+How does the Naive Bayes classifier work?,5,ML
+What is the role of a loss function?,5,ML
+Explain the vanishing gradient problem?,10,ML
+What are autoencoders?,10,ML
+How is PCA used in machine learning?,5,ML
+What is transfer learning?,5,ML
+Explain the concept of model interpretability.,5,ML
