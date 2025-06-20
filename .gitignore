@@ -1,0 +1,24 @@
+```gitignore
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Streamlit configuration and cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.json
+*.txt
+
+# VS Code settings
+.vscode/
